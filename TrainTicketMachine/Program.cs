@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+
 
 namespace TrainTicketMachine
 {
-    static class Program
+    static class Program 
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,6 +14,8 @@ namespace TrainTicketMachine
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            
+            // Save in the Cache ..
             Application.Run(new Form1());
         }
     }
