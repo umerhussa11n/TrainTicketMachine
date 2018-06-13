@@ -3,7 +3,7 @@
 namespace TrainTicketMachine.Interfaces
 {
     public interface IStationReader
-    { 
+    {
         List<string> AllStations
         {
             get;

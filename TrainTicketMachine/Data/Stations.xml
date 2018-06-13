@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<Stations>
+  <Station>DARTFORD</Station>
+  <Station>DARTMOUTH</Station>
+  <Station>TOWERHILL</Station>
+  <Station>DERBY</Station>
+  <Station>LIVERPOOL</Station>
+  <Station>LIVERPOOL LIME STREET</Station>
+  <Station>PADDINGTON</Station>
+  <Station>EUSTON</Station>
+  <Station>LONDON BRIDGE</Station>
+  <Station>VICTORIA</Station>
+</Stations>
